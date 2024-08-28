@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @yushansong33
+- 👀 I’m interested in exploring new things, enjoy all kinds of sports like tennis, skiing, and hiphop dancing
+- 🌱 I’m currently learning C++ and Unreal Engine, it's quite exciting
+- 💞️ I’m looking to collaborate on C++ projects
+- 📫 You can reach me at ys462@duke.edu
+- ⚡ Fun fact: I self-study and pass the bar exam in China; I'm currently writing a novel about F1 racing
