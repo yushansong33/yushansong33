@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yushansong33
-- 👀 I’m interested in exploring new things, enjoy all kinds of sports like tennis, skiing, and hiphop dancing
-- 🌱 I’m currently learning C++ and Unreal Engine, it's quite exciting
+- 🎓 I'm now a master's student major in Game Development and Innovation at Pratt Engineering School of Duke University
+- 👀 I’m interested in exploring new things, playing video games, and enjoying all kinds of sports like tennis, skiing, and hiphop dancing
+- 🌱 I’m currently learning C++ and Unreal Engine, it's quite exciting!
 - 💞️ I’m looking to collaborate on C++ projects
 - 📫 You can reach me at ys462@duke.edu
-- ⚡ Fun fact: I self-study and pass the bar exam in China; I'm currently writing a novel about F1 racing
+- ⚡ Fun fact: I self-study and passed the bar exam in China and I'm right now writing a novel about F1 racing
